@@ -37,8 +37,8 @@ End the Program.
 ```
 /*
 Program to implement the SVM For Spam Mail Detection..
-Developed by:CHANDRAMOHAN S
-RegisterNumber: 212221223002 
+Developed by:KISHORE M
+RegisterNumber: 212221043003 
 */
 
 
